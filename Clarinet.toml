@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/pulse-mesh-data.clar"
 depends_on = []
 
+[contracts.pulse-mesh-rewards]
+path = "contracts/pulse-mesh-rewards.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
