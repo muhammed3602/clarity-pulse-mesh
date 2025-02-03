@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.pulse-mesh-community]
+path = "contracts/pulse-mesh-community.clar"
+depends_on = []
+
 [contracts.pulse-mesh-data]
 path = "contracts/pulse-mesh-data.clar"
 depends_on = []
